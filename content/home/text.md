@@ -1,8 +1,8 @@
 ---
 widget: markdown
-widget_id: text
+widget_id: start
 headless: true
-weight: 10
+weight: 1
 active: true
 design:
   columns: "2"
@@ -12,3 +12,4 @@ design:
     gradient_start: "#86df64"
     gradient_end: "#19f4a6"
 ---
+# test
